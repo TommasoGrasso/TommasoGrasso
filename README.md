@@ -1,7 +1,7 @@
 # 👋 Ciao, sono @TommasoGrasso
 
 ## 👨‍💻 Chi sono
-Sono un **Full Stack Developer** Sono un Full Stack Developer appassionato di tecnologia e innovazione. Dopo aver intrapreso un corso intensivo e partecipato a diverse academy, ho consolidato le mie competenze nello sviluppo web, affrontando progetti concreti e lavorando con tecnologie moderne sia lato **frontend** che **backend**. Mi contraddistinguono un forte senso di adattamento, spirito di iniziativa e una naturale attitudine al problem solving. Amo imparare continuamente, affrontare nuove sfide e trasformare idee in soluzioni digitali funzionali, efficaci e durature.
+Sono un **Full Stack Developer** appassionato di tecnologia e innovazione. Dopo aver intrapreso un corso intensivo e partecipato a diverse academy, ho consolidato le mie competenze nello sviluppo web, affrontando progetti concreti e lavorando con tecnologie moderne sia lato **frontend** che **backend**. Mi contraddistinguono un forte senso di adattamento, spirito di iniziativa e una naturale attitudine al problem solving. Amo imparare continuamente, affrontare nuove sfide e trasformare idee in soluzioni digitali funzionali, efficaci e durature.
 
 ---
 
